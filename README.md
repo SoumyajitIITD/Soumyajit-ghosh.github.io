@@ -33,6 +33,19 @@ and I am open to research collaborations—feel free to reach out!
 <a href="https://www.researchgate.net/profile/Soumyajit-Ghosh-9/">
 <img src="assets/ResearchGate.svg" alt="ResearchGate">
 
+<a href="https://github.com/SoumyajitIITD/">
+<img src="assets/github.svg" alt="GitHub">
+  
 ### Publications
+
+### Teaching Assistantship
+
+### Education
+#### Indian Institute of Technology, Delhi
+### Skills
+
+### Interests
+
+### Awards
 
 
